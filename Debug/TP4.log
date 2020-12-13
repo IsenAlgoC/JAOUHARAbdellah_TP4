@@ -1,0 +1,2 @@
+﻿  exo6.c
+C:\Users\Jaouh\source\repos\TP4\TP4\exo6.c(13,18): warning C4244: 'fonction' : conversion de 'time_t' en 'unsigned int', perte possible de données
